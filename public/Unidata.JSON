@@ -1,0 +1,22 @@
+[
+    {"id":1,"ranking":1,"name":"Massachusetts Institute of Technology (MIT)","img":"https://news.mit.edu/sites/default/files/images/201706/%2520Aerial-AboveSummit-Christopher%2520Harting.png","location":"United States","semesterFee":6000,"intStudent":2900},
+
+
+    {"id":2,"ranking":2, "img":"https://images.unsplash.com/photo-1612563958093-2c3bcfbd8760?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8b3hmb3JkJTIwdW5pdmVyc2l0eXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80","name":"University of Oxford","location":"United Kingdom","semesterFee":5500,"intStudent":2800},
+    
+    {"id":3,"ranking":3,"name":"Stanford University","img":"https://media.istockphoto.com/photos/stanford-university-at-dawn-picture-id1137558833?k=20&m=1137558833&s=612x612&w=0&h=alqajq-yKuTle8QNGQIasHSuvzAQLyJOyHR12hcga1o=","semesterFee":5000,"location":"United States","intStudent":2700},
+    
+    {"id":4,"ranking":4,"img":"https://c.files.bbci.co.uk/BB71/production/_112358974_pa-20968709.jpg","name":"University of Cambridge","location":"United Kingdom","semesterFee":4500,"intStudent":2600},
+    
+    {"id":5,"ranking":5,"name":"Harvard University","img":"https://images.unsplash.com/photo-1622397333309-3056849bc70b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGFydmFyZCUyMHVuaXZlcnNpdHl8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80","location":"United States","semesterFee":4000,"intStudent":2500},
+    
+    {"id":6,"ranking":6,"name":"California Institute of Technology (Caltech)","img":"https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/Pictures/web/u/b/o/caltech-campus-entrance-sign.jpg?itok=tHYsMebA","location":"United States","semesterFee":3500,"intStudent":2400},
+    
+    {"id":7,"ranking":7,"name":"Imperial College London","img":"https://images.shiksha.com/mediadata/images/1533036934phpMVr81J.jpeg","location":"United Kingdom","semesterFee":3000,"intStudent":2300},
+    
+    {"id":8,"ranking":8,"name":"ETH Zurich (Swiss Federal Institute of Technology)","img":"https://sciencebusiness.net/sites/default/files/styles/article/public/2019-03/eth%20zurich.png?itok=fa5Bizdr","location":"Switzerland","semesterFee":2500,"intStudent":2200},
+    
+    {"id":9,"ranking":9,"name":"UCL (University College London)","img":"https://intake.education/sites/default/files/114289a32b3062079331c08fa0753826bc0f8058.jpg","location":"United Kingdom","semesterFee":2000,"intStudent":2100},
+    
+    {"id":10,"ranking":10,"name":"University of Chicago","img":"https://www.usnews.com/dims4/USNEWS/da10b5e/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F75%2F01990508d344ade6068974770c9b4f%2FHero-uchicago-campus.jpg","location":"United States","semesterFee":1500,"intStudent":2000}
+]

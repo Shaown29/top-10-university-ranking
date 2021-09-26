@@ -1,0 +1,13 @@
+.universities-container{
+    display:grid;
+    grid-template-columns: 3fr 1fr;
+}
+.university-container{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    
+    
+}
+.side-card{
+    margin:40px;
+}
